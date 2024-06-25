@@ -17,3 +17,4 @@
 ### Used a bit but never fully learned it
 ![C#](https://img.shields.io/badge/C%23-%2342656E?logo=c%23&logoColor=%20%23FFF)
 ![Lua](https://img.shields.io/badge/Lua-%2342656E?logo=lua&logoColor=%20%23FFF)
+![Haskell](https://img.shields.io/badge/Haskell-%20%2342656E?logo=haskell)
