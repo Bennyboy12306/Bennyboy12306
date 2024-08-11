@@ -13,8 +13,10 @@
 
 ### Learning
 ![Python](https://img.shields.io/badge/Python-%2342656E?logo=python&logoColor=%20%23FFF)
+![GDScript](https://img.shields.io/badge/GDScript-42656E?style=flat&logo=godotengine&logoColor=ffffff)
 
 ### Used a bit but never fully learned it
 ![C#](https://img.shields.io/badge/C%23-%2342656E?logo=c%23&logoColor=%20%23FFF)
 ![Lua](https://img.shields.io/badge/Lua-%2342656E?logo=lua&logoColor=%20%23FFF)
 ![Haskell](https://img.shields.io/badge/Haskell-%20%2342656E?logo=haskell)
+![GML](https://img.shields.io/badge/GML-42656E?style=flat&logo=Gamemaker&logoColor=ffffff)
