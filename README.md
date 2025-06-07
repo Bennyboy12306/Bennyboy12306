@@ -9,14 +9,14 @@
 
 
 ### Intermediate
+![Lua](https://img.shields.io/badge/Lua-%2342656E?logo=lua&logoColor=%20%23FFF)
+![GDScript](https://img.shields.io/badge/GDScript-42656E?style=flat&logo=godotengine&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS-%2342656E?logo=css3&logoColor=%20%23FFF)
 ![Javascript](https://img.shields.io/badge/Javascript-%2342656E?logo=javascript&logoColor=%20%23FFF)
 
 ### Learning
-![GDScript](https://img.shields.io/badge/GDScript-42656E?style=flat&logo=godotengine&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-%2342656E?logo=python&logoColor=%20%23FFF)
 
 ### Used a bit but never fully learned it
 ![GML](https://img.shields.io/badge/GML-42656E?style=flat&logo=Gamemaker&logoColor=ffffff)
 ![Haskell](https://img.shields.io/badge/Haskell-%20%2342656E?logo=haskell)
-![Lua](https://img.shields.io/badge/Lua-%2342656E?logo=lua&logoColor=%20%23FFF)
