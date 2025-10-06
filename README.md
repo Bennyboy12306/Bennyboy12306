@@ -14,9 +14,10 @@
 ![GDScript](https://img.shields.io/badge/GDScript-42656E?style=flat&logo=godotengine&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS-%2342656E)
 ![Javascript](https://img.shields.io/badge/Javascript-%2342656E?logo=javascript&logoColor=%20%23FFF)
+![Python](https://img.shields.io/badge/Python-%2342656E?logo=python&logoColor=%20%23FFF)
 
 ### Learning
-![Python](https://img.shields.io/badge/Python-%2342656E?logo=python&logoColor=%20%23FFF)
+![Rust](https://img.shields.io/badge/Rust-%2342656E?logo=Rust&logoColor=%20%23FFF)
 
 ### Used a bit but never fully learned it
 ![GML](https://img.shields.io/badge/GML-42656E?style=flat&logo=Gamemaker&logoColor=ffffff)
